@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-category: 随笔
+category: Life
 tags: lnek, lnek.github.io
 description: HelloWorld
 
