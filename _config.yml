@@ -1,0 +1,37 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+pygments: true
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: Eric
+  email: wsk2582458@gmail.com
+  link: http://lnek.github.io
+  #weibo: http://weibo.com/yansu0711
+  github: http://github.com/lnek
+
+# 站点信息
+title: Code & Poetry
+description: Code & Poetry
+url: http://lnek.github.io
+rss_url: /pages/atom.xml
+
+# avatar头像及Favicon
+avatar:  ./assets/img/avatar.png
+favicon: ./assets/img/avatar.png
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+
+# google analytics 设置
+ga:
+  id: UA-63929964-1
+  url: lnek.github.io
+  # url: lnek.github.io
+
+# disqus 设置
+disqus:
+  shortname: Lnek
