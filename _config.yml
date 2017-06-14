@@ -7,16 +7,16 @@ kramdown:
 
 # 作者信息
 author: 
-  name: Eric
+  name: Lnek
   email: wsk2582458@gmail.com
-  link: http://lnek.github.io
-  #weibo: http://weibo.com/yansu0711
+  link: http://lnek.wang
+  #weibo: http://weibo.com/lnekwang
   github: http://github.com/lnek
 
 # 站点信息
 title: Code & Poetry
-description: Code & Poetry
-url: http://lnek.github.io
+description: Sleep & Eat
+url: http://lnek.wang
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
@@ -29,7 +29,7 @@ filter: 'category'
 # google analytics 设置
 ga:
   id: UA-63929964-1
-  url: lnek.github.io
+  url: lnek.wang
   # url: lnek.github.io
 
 # disqus 设置
