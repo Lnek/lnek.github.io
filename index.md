@@ -4,7 +4,7 @@ title: Code & Poetry | Sleep & Eat
 
 ---
 ## About me    
-My name is Eric Wang, aka 'Lnek' on the Internet. I'm currently working at BaishanCloud as a R&D System Engineer.  
+My name is Eric Wang, aka 'Lnek' on the Internet. I'm currently working at BaishanCloud as a R&D System Engineer mainly research and develop high-performance cache components. I'm fun of Linux and Python (both 2 and 3). 
 
 ## Contact me    
 Email: [wsk2582458(AT)gmail.com](mailTo:wsk2582458@gmail.com)    
