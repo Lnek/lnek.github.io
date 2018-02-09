@@ -6,8 +6,8 @@ tags: lnek, lnek.github.io
 description: TheZenOfPython
 
 ---
-
-# by Tim Peters
+Author: Tim Peters
+---
 
 Beautiful is better than ugly.    
 Explicit is better than implicit.    
