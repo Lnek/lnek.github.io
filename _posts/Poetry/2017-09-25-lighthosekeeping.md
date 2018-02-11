@@ -9,7 +9,7 @@ description: Lighthosekeeping
 Author: Jeanette Winterson
 ---
 
-#Lighthose Keeping
+# Lighthose Keeping
 
 When you love someone you should say it.   
 My life is a hesitation in time.An opening in a cave.A gap for a word.   
@@ -18,7 +18,7 @@ Don’t wait.Don’t tell the story later.
 I love you.The three most difficult words in the world.   
 But what else can I say?   
 
-#守望灯塔
+# 守望灯塔
 
 当你爱一个人的时候你就应该说出来。   
 生命只是时间中的一个停顿。   
