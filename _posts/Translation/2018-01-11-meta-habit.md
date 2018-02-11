@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meta Habit
-category: Life
+category: Translation
 tags: lnek, lnek.github.io
 description: MetaHabit
 
