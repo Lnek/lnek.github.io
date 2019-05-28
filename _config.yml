@@ -35,3 +35,5 @@ ga:
 # disqus 设置
 disqus:
   shortname: Lnek
+
+theme: jekyll-theme-slate
