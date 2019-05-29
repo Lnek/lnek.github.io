@@ -576,11 +576,11 @@ iframe {
   #icon-cc:before {
     content: "\e803"; }
 
-#icon-weibo {
+#icon-telegram {
   margin-left: 50px; }
-  #icon-weibo:hover {
+  #icon-telegram:hover {
     color: #d40220; }
-  #icon-weibo:before {
+  #icon-telegram:before {
     content: "\e804"; }
 
 #disqus_thread {
